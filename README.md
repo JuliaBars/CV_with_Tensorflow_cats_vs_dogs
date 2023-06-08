@@ -1,11 +1,11 @@
 
 ## Сверточная нейронная сеть для классификации изображений:
 #### 1 вариант ~ 70% точности
--  [ссылка на модель 1](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs)
+-  [ссылка на модель 1](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs/blob/main/models/1_CNN.ipynb)
 #### 2 вариант ~ 85% точности (добавление data augmentation) 
-- [ссылка на модель 2](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs)
+- [ссылка на модель 2](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs/blob/main/models/2_CNN_data_augmentation.ipynb)
 #### 3 вариант ~ 97% точности (переиспользование предварительно обученной модели) 
-- [ссылка на модель 3](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs)
+- [ссылка на модель 3](https://github.com/JuliaBars/CV_with_Tensorflow_cats_vs_dogs/blob/main/models/4_CNN_with_VGG16_freeze.ipynb)
 
 ---
 ---
